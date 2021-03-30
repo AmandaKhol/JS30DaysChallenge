@@ -6,4 +6,4 @@ Here are my solutions proposed for the [JavaScript 30 Days Challenge](https://ja
 
 Starting date: 30th March 2021.
 
-The codes includes HTML, CSS and JS solutions.
+The code includes HTML, CSS and JS solutions.
